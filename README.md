@@ -13,20 +13,36 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-```javascript
-const fredaricJack = {
-  name:              "Fredaric Jack Christon A",
-  location:          "Trivandrum, India 🇮🇳",
-  degree:            "MCA — Hindustan University (July 2025)",
-  stack:             ["React.js", "ASP.NET Core Web API", "SQL Server", "JavaScript (ES6+)", "C#"],
-  currentlyLearning: ["TypeScript", "Docker", "System Design", "Azure Cloud"],
-  openTo:            "Full-Stack / Frontend / Backend Developer roles",
-  funFact:           "I presented an IEEE paper on Toxic Comment Classification using BERT 🧠",
-  motto:             () => "Write clean code. Ship fast. Learn always.",
-};
-```
+### Fredaric Jack Christon A
+
+📍 Trivandrum, India &nbsp;|&nbsp; 🎓 MCA — Hindustan University
+
+<br/>
+
+**🛠️ Stack**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+**📚 Currently Learning**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6C47FF?style=flat&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+| | |
+|---|---|
+| 💼 **Open to** | Full-Stack / Frontend / Backend Developer roles |
+| 🧠 **Fun fact** | Presented an IEEE paper on Toxic Comment Classification using BERT |
+| 💬 **Motto** | "Write clean code. Ship fast. Learn always". |
 
 <br clear="right"/>
 
