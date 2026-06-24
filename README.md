@@ -147,9 +147,9 @@
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [**🌐 Portfolio Website**](https://github.com/fredaricjack) | HTML · CSS · JavaScript | Responsive personal portfolio showcasing projects & skills; deployed live on **Vercel** |
+| [**🌐 Portfolio Website**](https://my-portfolio-peach-kappa-55.vercel.app/) | HTML · CSS · JavaScript | Responsive personal portfolio showcasing projects & skills; deployed live on **Vercel** |
 | [**📦 Product Management System**](https://github.com/fredaricjack) | React · ASP.NET Core Web API · SQL Server | Full-stack CRUD app with RESTful API integration; frontend on **Vercel**, backend on **Render** |
-| [**🧠 Toxic Comment Classifier**](https://github.com/fredaricjack) | BERT · Random Forest · SVM · NLP | IEEE-published deep learning system for detecting & classifying toxic online comments |
+| [**🧠 Toxic Comment Classifier**](https://ieeexplore.ieee.org/document/11089768) | BERT · Random Forest · SVM · NLP | IEEE-published deep learning system for detecting & classifying toxic online comments |
 
 </p>
 
